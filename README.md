@@ -8,7 +8,7 @@
 
 *An intelligent, on-chain AI agent that autonomously manages DeFi strategies across multiple protocols, leveraging real-time market data and machine learning to maximize yields while minimizing risk.*
 
-> **🌐 Live Demo:** Experience AION in action → [Vercel](https://aion-ai-agent-hagn3yq5t-samarabdelhameeds-projects-df99c328.vercel.app/)
+> **🌐 Live Demo:** Experience AION in action → [Vercel](https://aion-ai-agent-abf.vercel.app/)
 
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
@@ -21,7 +21,7 @@
 [![BSC Testnet](https://img.shields.io/badge/BSC-Testnet%20Live-yellow?style=flat-square&logo=binance)](https://testnet.bscscan.com/address/0x4625bB7f14D4e34F9D11a5Df7566cd7Ec1994849)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=flat-square&logo=github)](https://samarabdelhameed.github.io/AION_AI_Agent/)
 
-**🌐 Live Demo:** [https://aion-ai-agent-hagn3yq5t-samarabdelhameeds-projects-df99c328.vercel.app](https://aion-ai-agent-hagn3yq5t-samarabdelhameeds-projects-df99c328.vercel.app/) | **📊 Analytics:** [BSC Testnet Explorer](https://testnet.bscscan.com/address/0x4625bB7f14D4e34F9D11a5Df7566cd7Ec1994849) | **🎬 YouTube Demo:** [Watch Live Demo](https://www.youtube.com/watch?v=Ue92da79kx4)
+**🌐 Live Demo:** [https://aion-ai-agent-abf.vercel.app](https://aion-ai-agent-abf.vercel.app) | **📊 Analytics:** [BSC Testnet Explorer](https://testnet.bscscan.com/address/0x4625bB7f14D4e34F9D11a5Df7566cd7Ec1994849) | **🎬 YouTube Demo:** [Watch Live Demo](https://www.youtube.com/watch?v=Ue92da79kx4)
 
 ### 🚀 **Try AION Now - Live Demo Available!**
 
@@ -51,7 +51,7 @@
 
 🎯 DEMO INSTRUCTIONS:
 1. **🎬 Watch Demo:** [YouTube Video](https://www.youtube.com/watch?v=Ue92da79kx4)
-2. **🌐 Try Live:** https://aion-ai-agent-hagn3yq5t-samarabdelhameeds-projects-df99c328.vercel.app
+2. **🌐 Try Live:** https://aion-ai-agent-abf.vercel.app
 3. Connect MetaMask (BSC Testnet)
 4. Get testnet BNB from faucet
 5. Try deposit, AI recommendations, and withdrawals
